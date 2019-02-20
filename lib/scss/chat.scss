@@ -19,7 +19,9 @@ $color--primary: #1883ff !default;
 }
 
 .chat {
+    margin: 0 auto;
     max-width: 40rem;
+    min-height: 100vh;
     padding: 0 4%;
     background: #ebebeb;
 }

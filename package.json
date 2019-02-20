@@ -3,22 +3,9 @@
   "version": "1.0.0",
   "description": "a simple javascript chatbot",
   "main": "gulpfile.js",
-  "directories": {
-    "example": "example"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://tim_rosskamp@gitlab.com/tim_rosskamp/chatbot.git"
-  },
-  "author": "Tim Roßkamp",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://gitlab.com/tim_rosskamp/chatbot/issues"
-  },
-  "homepage": "https://gitlab.com/tim_rosskamp/chatbot#README",
+  "author": "Tim Rosskamp",
+  "license": "UNLICENSED",
+  "homepage": "https://timrosskamp.github.io/chatbot/example/example.html",
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
     "css-mqpacker": "^6.0.0",
